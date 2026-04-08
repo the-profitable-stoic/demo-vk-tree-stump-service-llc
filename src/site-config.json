@@ -1,0 +1,548 @@
+{
+  "business": {
+    "name": "VK Tree & Stump Service LLC",
+    "phone": "+16124131348",
+    "category": "tree removal",
+    "city": "Minneapolis",
+    "state": "MN"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-dark-premium",
+      "categoryGroup": "roofing",
+      "name": "Dark Premium",
+      "recipeFile": "roofing/dark-premium.astro",
+      "colors": {
+        "primary": "#FF6B35",
+        "primaryDark": "#E05A2B",
+        "primaryLight": "#FFD4C2",
+        "secondary": "#2A2A2A",
+        "accent": "#FF8C5A",
+        "background": "#1A1A1A",
+        "backgroundAlt": "#111111",
+        "surface": "#2A2A2A",
+        "text": "#F5F5F5",
+        "textLight": "#A0A0A0",
+        "textOnDark": "#FFFFFF",
+        "border": "#3A3A3A"
+      },
+      "typography": {
+        "headingFont": "Space Grotesk",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "glow"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "dark",
+          "surface",
+          "dark",
+          "surface",
+          "dark"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/dark-premium"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Minneapolis's Trusted Tree Removal",
+      "heroSubline": "VK Tree & Stump Service delivers expert tree care with precision and safety. Protecting your property, one tree at a time.",
+      "aboutTitle": "Your Minneapolis Tree Care Experts",
+      "aboutText": [
+        "VK Tree & Stump Service LLC started with a single mission: to provide reliable and professional tree removal services to the Minneapolis community. We saw a need for a company that understood the unique challenges of urban forestry in our climate, from ice storms to boulevard trees.",
+        "Our approach is simple: assess each job thoroughly, communicate clearly with our clients, and execute the work with the highest standards of safety and efficiency. We're not just removing trees; we're protecting homes and landscapes.",
+        "We're proud to be a part of the Minneapolis community. We actively support local initiatives and prioritize environmentally responsible practices in all our operations, ensuring the beauty and health of our city's urban forest for years to come."
+      ],
+      "valueProps": [
+        {
+          "title": "Safety First",
+          "description": "We prioritize safety in every project, protecting your property and our team."
+        },
+        {
+          "title": "Expert Arborists",
+          "description": "Our team consists of certified arborists with years of experience in Minneapolis."
+        },
+        {
+          "title": "Efficient Service",
+          "description": "We complete projects promptly and efficiently, minimizing disruption to your life."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the specific tree care needs of Minneapolis homes and landscapes."
+        }
+      ],
+      "ctaHeadline": "Get a Free Tree Removal Estimate",
+      "ctaSubline": "Protect your home and landscape with expert tree care. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "tree-removal",
+        "name": "Tree Removal",
+        "shortDescription": "Safe and complete tree removal for any size or species in Minneapolis.",
+        "description": "VK Tree & Stump Service provides complete tree removal services for residential and commercial properties throughout Minneapolis. Whether you have a storm-damaged tree, a diseased tree posing a risk, or simply need a tree removed to improve sunlight or aesthetics, we have the expertise and equipment to get the job done safely and efficiently.\n\nOur tree removal process begins with a thorough assessment of the tree and its surroundings. We consider factors such as size, species, location, proximity to structures, and potential hazards. We then develop a detailed plan to remove the tree in a controlled and safe manner, utilizing techniques such as sectional dismantling, crane-assisted removal, and precision felling.\n\nWe handle all aspects of the removal process, from obtaining necessary permits to clearing debris and grinding stumps. Our goal is to leave your property clean and safe, ready for its next chapter. We are experienced with removing trees near the historic homes of St. Paul, the tight lot lines of South Minneapolis, and the newer developments in the suburbs. We adapt our tree removal plan to the specific requirements of each location.",
+        "process": [
+          "Step 1: Initial assessment and consultation",
+          "Step 2: Secure necessary permits",
+          "Step 3: Safe and controlled tree removal",
+          "Step 4: Debris removal and stump grinding"
+        ],
+        "benefits": [
+          "Eliminate hazards from damaged or diseased trees",
+          "Improve sunlight and aesthetics on your property",
+          "Prevent property damage from falling limbs",
+          "Create space for new landscaping or construction"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit to remove a tree in Minneapolis?",
+            "answer": "In many cases, yes. The City of Minneapolis has regulations regarding tree removal, especially for boulevard trees or trees on protected properties. We can assist you in obtaining the necessary permits."
+          },
+          {
+            "question": "How much does tree removal cost?",
+            "answer": "The cost of tree removal depends on several factors, including the size and species of the tree, its location, and the complexity of the removal process. We offer free estimates to provide you with an accurate quote."
+          },
+          {
+            "question": "What do you do with the removed tree?",
+            "answer": "We recycle as much of the tree as possible. The wood can be processed into firewood or mulch, and the debris is often taken to a composting facility. We strive to minimize waste and promote sustainable practices."
+          }
+        ]
+      },
+      {
+        "slug": "stump-grinding",
+        "name": "Stump Grinding",
+        "shortDescription": "Efficient stump grinding to eliminate unsightly remnants and prevent regrowth.",
+        "description": "After a tree is removed, the remaining stump can be an eyesore and a potential hazard. VK Tree & Stump Service offers professional stump grinding services to completely remove stumps and roots, leaving your property clean and ready for landscaping or other uses.\n\nOur stump grinding process utilizes specialized equipment to grind the stump down below the surface of the ground. We carefully remove the grindings and fill the hole with topsoil, creating a level surface that can be seeded or planted. We are experienced in removing stumps from small backyards in Uptown to large commercial properties in the North Loop.\n\nStump grinding not only improves the appearance of your property but also prevents regrowth, eliminates potential tripping hazards, and reduces the risk of insect infestations. We take pride in our meticulous work and commitment to customer satisfaction.",
+        "process": [
+          "Step 1: Stump assessment and preparation",
+          "Step 2: Safe and efficient stump grinding",
+          "Step 3: Grindings removal and site cleanup",
+          "Step 4: Topsoil filling and leveling"
+        ],
+        "benefits": [
+          "Eliminate unsightly stumps and roots",
+          "Prevent regrowth and insect infestations",
+          "Create a safe and usable space",
+          "Improve property value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How deep do you grind the stump?",
+            "answer": "We typically grind the stump down to a depth of 6-12 inches below the surface, which is sufficient to prevent regrowth and allow for landscaping."
+          },
+          {
+            "question": "Will stump grinding damage my lawn?",
+            "answer": "We take precautions to minimize damage to your lawn. We use mats to protect the surrounding grass and carefully remove the grindings to prevent staining."
+          },
+          {
+            "question": "What happens to the wood chips?",
+            "answer": "We can either remove the wood chips from your property or spread them around the area as mulch, depending on your preference."
+          }
+        ]
+      },
+      {
+        "slug": "tree-trimming",
+        "name": "Tree Trimming",
+        "shortDescription": "Professional tree trimming and pruning to maintain tree health and appearance.",
+        "description": "VK Tree & Stump Service provides expert tree trimming and pruning services to enhance the health, beauty, and safety of your trees. Regular trimming can improve air circulation, reduce the risk of disease, and remove dead or damaged branches that could pose a hazard.\n\nOur certified arborists use proper pruning techniques to shape your trees and promote healthy growth. We understand the specific needs of different tree species and tailor our trimming approach accordingly. We can help you maintain the mature oak trees of Linden Hills, the newly planted trees of Southwest Minneapolis, or the boulevard trees of Northeast.\n\nWhether you need routine maintenance or specialized trimming services, we have the expertise and equipment to get the job done right. We are committed to providing exceptional service and ensuring the long-term health of your trees.",
+        "process": [
+          "Step 1: Tree assessment and consultation",
+          "Step 2: Pruning and trimming according to best practices",
+          "Step 3: Debris removal and cleanup",
+          "Step 4: Final inspection and customer satisfaction"
+        ],
+        "benefits": [
+          "Improve tree health and longevity",
+          "Enhance tree appearance and shape",
+          "Reduce the risk of disease and pests",
+          "Prevent property damage from falling branches"
+        ],
+        "faq": [
+          {
+            "question": "How often should I trim my trees?",
+            "answer": "The frequency of tree trimming depends on the species, age, and health of the tree. Generally, mature trees should be trimmed every 3-5 years, while younger trees may require more frequent trimming."
+          },
+          {
+            "question": "What is the best time of year to trim trees?",
+            "answer": "The best time to trim most trees is during the dormant season (late winter or early spring). However, certain species may benefit from trimming at other times of the year."
+          },
+          {
+            "question": "Can you trim trees near power lines?",
+            "answer": "Yes, but it is extremely dangerous and should only be done by qualified professionals. We have the training and equipment to safely trim trees near power lines."
+          }
+        ]
+      },
+      {
+        "slug": "emergency-tree-service",
+        "name": "Emergency Tree Service",
+        "shortDescription": "24/7 emergency tree removal and storm damage cleanup in Minneapolis.",
+        "description": "When severe weather strikes Minneapolis, trees can be damaged or uprooted, posing a serious threat to your property and safety. VK Tree & Stump Service offers 24/7 emergency tree service to quickly and safely remove fallen trees, clear debris, and mitigate further damage.\n\nWe understand the urgency of these situations and respond promptly to your call. Our team is equipped with the necessary tools and equipment to handle any emergency, from removing a tree that has fallen on your house to clearing a blocked driveway. We have experience responding to ice storm damage in St. Paul, derecho damage in Bloomington, and tornado damage in Maple Grove.\n\nWe work closely with insurance companies to ensure a smooth and hassle-free claims process. Our goal is to provide peace of mind during a stressful time and restore your property to its pre-storm condition.",
+        "process": [
+          "Step 1: Immediate response to your call",
+          "Step 2: Safe and efficient tree removal",
+          "Step 3: Debris removal and cleanup",
+          "Step 4: Insurance coordination (if necessary)"
+        ],
+        "benefits": [
+          "24/7 emergency response",
+          "Rapid removal of fallen trees",
+          "Prevention of further property damage",
+          "Assistance with insurance claims"
+        ],
+        "faq": [
+          {
+            "question": "What should I do if a tree falls on my house?",
+            "answer": "First, evacuate the house and ensure the safety of yourself and your family. Then, call us immediately for emergency tree removal service. Do not attempt to remove the tree yourself, as this could be extremely dangerous."
+          },
+          {
+            "question": "How quickly can you respond to an emergency?",
+            "answer": "We strive to respond to emergencies as quickly as possible. Our response time depends on our current workload and the severity of the situation, but we typically arrive within a few hours."
+          },
+          {
+            "question": "Will my insurance cover the cost of emergency tree removal?",
+            "answer": "In most cases, yes. Your homeowner's insurance policy should cover the cost of removing a tree that has fallen on your house or other insured structure. We can work directly with your insurance company to file a claim."
+          }
+        ]
+      },
+      {
+        "slug": "land-clearing",
+        "name": "Land Clearing",
+        "shortDescription": "Efficient and environmentally-conscious land clearing for construction and development projects.",
+        "description": "VK Tree & Stump Service provides comprehensive land clearing services for residential and commercial development projects in Minneapolis and the surrounding areas. Whether you're building a new home, expanding your business, or creating a new park, we can prepare the land for construction in a safe and efficient manner.\n\nOur land clearing process includes tree removal, stump grinding, brush removal, and site grading. We utilize specialized equipment to minimize environmental impact and ensure compliance with all local regulations. We are experienced in clearing land for new developments in Eden Prairie, subdivisions in Plymouth, and commercial projects in downtown Minneapolis.\n\nWe work closely with developers, contractors, and homeowners to understand their specific needs and provide customized land clearing solutions. Our goal is to prepare your land for construction on time and within budget.",
+        "process": [
+          "Step 1: Site assessment and planning",
+          "Step 2: Tree removal and stump grinding",
+          "Step 3: Brush removal and site grading",
+          "Step 4: Debris removal and cleanup"
+        ],
+        "benefits": [
+          "Efficient land preparation for construction",
+          "Environmentally-conscious practices",
+          "Compliance with local regulations",
+          "Customized solutions for your specific needs"
+        ],
+        "faq": [
+          {
+            "question": "Do I need a permit for land clearing?",
+            "answer": "Yes, in most cases. Depending on the size and location of the project, you may need to obtain permits from the city, county, or state. We can assist you in navigating the permitting process."
+          },
+          {
+            "question": "How long does land clearing take?",
+            "answer": "The duration of land clearing depends on the size and complexity of the project. We will provide you with a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "What do you do with the cleared vegetation?",
+            "answer": "We recycle as much of the cleared vegetation as possible. The wood can be processed into lumber, firewood, or mulch, and the debris is often taken to a composting facility."
+          }
+        ]
+      },
+      {
+        "slug": "storm-damage-cleanup",
+        "name": "Storm Damage Cleanup",
+        "shortDescription": "Comprehensive cleanup services after storms, including debris removal and tree damage repair.",
+        "description": "Minneapolis weather can be unpredictable, and severe storms can cause significant damage to trees and property. VK Tree & Stump Service offers comprehensive storm damage cleanup services to help you recover quickly and safely. We understand the stress and disruption that storms can cause, and we are committed to providing prompt and reliable service.\n\nOur storm damage cleanup services include tree removal, debris removal, branch chipping, and emergency tree stabilization. We work closely with homeowners, businesses, and insurance companies to assess the damage and develop a plan for restoration. We have experience cleaning up after wind storms in Maple Grove, hail storms in Bloomington, and ice storms in St. Paul.\n\nWe prioritize safety in all our storm damage cleanup operations. Our team is trained to handle hazardous situations, such as downed power lines and unstable trees. We are committed to restoring your property to its pre-storm condition as quickly and efficiently as possible.",
+        "process": [
+          "Step 1: Site assessment and damage evaluation",
+          "Step 2: Tree removal and debris removal",
+          "Step 3: Branch chipping and site cleanup",
+          "Step 4: Emergency tree stabilization (if necessary)"
+        ],
+        "benefits": [
+          "Rapid response to storm damage",
+          "Safe and efficient cleanup operations",
+          "Coordination with insurance companies",
+          "Restoration of your property to its pre-storm condition"
+        ],
+        "faq": [
+          {
+            "question": "How can I prepare my trees for a storm?",
+            "answer": "Regular tree trimming and pruning can help to reduce the risk of storm damage. Remove dead or damaged branches that could fall during a storm. Also, ensure that your trees are properly supported and anchored."
+          },
+          {
+            "question": "What should I do if I see a downed power line?",
+            "answer": "Stay away from the downed power line and call the power company immediately. Do not attempt to move the power line yourself, as this could be fatal."
+          },
+          {
+            "question": "How can I document storm damage for insurance purposes?",
+            "answer": "Take photos or videos of the damage before you begin any cleanup. Also, keep records of all expenses related to storm damage cleanup, such as tree removal and debris removal."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "St. Paul",
+        "slug": "st-paul-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC is proud to offer comprehensive tree removal and stump grinding services to the residents of St. Paul, Minnesota. From the historic Victorian-era homes lining Summit Avenue to the bustling Grand Avenue commercial district, we understand the unique challenges and needs of maintaining healthy and safe trees in this vibrant city. Our team is equipped to handle any tree-related issue, large or small, with professionalism and expertise.\n\nWe are committed to preserving the beauty of St. Paul's urban forest. We offer a full range of services, including tree trimming, tree removal, stump grinding, and emergency tree services. We understand the extreme cold winters that St. Paul experiences and how they can impact tree health, making proactive tree care essential. We are fully licensed and insured, and we adhere to all local regulations to ensure a safe and efficient service.",
+        "localContext": "St. Paul is known for its beautiful Victorian architecture, especially along Summit Avenue, and its susceptibility to harsh winter weather that can impact tree health.",
+        "nearbyAreas": [
+          "Minneapolis",
+          "West St. Paul",
+          "Maplewood"
+        ]
+      },
+      {
+        "city": "Plymouth",
+        "slug": "plymouth-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC provides expert tree removal and stump grinding services in Plymouth, Minnesota. We understand the landscape of Plymouth, with its established suburban homes dating back to the 1970s and 80s, often featuring mature trees that require specialized care. Whether you need tree trimming, hazardous tree removal, or stump grinding services, our team is ready to assist you.\n\nWe are dedicated to providing safe and reliable tree services to the Plymouth community. We are aware of the challenges posed by the extreme cold winters and how they can affect the health and stability of trees. Our experienced team utilizes state-of-the-art equipment and techniques to ensure efficient and safe tree removal and stump grinding. We are fully licensed and insured, giving you peace of mind.",
+        "localContext": "Plymouth features established suburban neighborhoods with mature trees and experiences extreme cold winters that necessitate careful tree maintenance.",
+        "nearbyAreas": [
+          "Maple Grove",
+          "Minnetonka",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Eden Prairie",
+        "slug": "eden-prairie-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC is your trusted provider for tree removal and stump grinding services in Eden Prairie, Minnesota. We serve the many planned developments from the 1980s and 90s with professional tree care solutions. From removing storm-damaged trees to grinding unsightly stumps, we have the expertise and equipment to handle any tree-related project.\n\nWe are committed to providing top-quality service to the Eden Prairie community. We understand the importance of maintaining healthy and safe trees in residential areas. Our team is experienced in navigating the unique challenges of working in planned developments, ensuring minimal disruption to your property and neighbors. We also understand the impact of extreme cold winters on trees, and we can help you protect your trees from winter damage.",
+        "localContext": "Eden Prairie is characterized by planned residential developments built in the 1980s and 1990s and experiences extreme cold winters.",
+        "nearbyAreas": [
+          "Minnetonka",
+          "Hopkins",
+          "Chanhassen"
+        ]
+      },
+      {
+        "city": "Maple Grove",
+        "slug": "maple-grove-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC offers professional tree removal and stump grinding services in Maple Grove, Minnesota. We understand the landscape of Maple Grove, with its many family-oriented developments built in the 1990s and 2000s, often featuring trees that have matured over time. We are equipped to handle all your tree care needs, from routine trimming to hazardous tree removal.\n\nWe are dedicated to providing safe and efficient tree services to the Maple Grove community. We are aware of the potential dangers that trees can pose, especially during severe weather. Our experienced team utilizes state-of-the-art equipment and techniques to ensure safe and effective tree removal and stump grinding. We are fully licensed and insured, providing peace of mind knowing your property is in good hands.",
+        "localContext": "Maple Grove is a family-oriented suburb with developments dating from the 1990s and 2000s that experiences extreme cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Osseo",
+          "Rogers"
+        ]
+      },
+      {
+        "city": "Bloomington",
+        "slug": "bloomington-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC is a reliable provider of tree removal and stump grinding services in Bloomington, Minnesota. We understand the landscape of Bloomington, with its established ranch-style homes from the 1960s and 70s, often featuring mature trees that require specialized care. Whether you need tree trimming, hazardous tree removal, or stump grinding services, our team is ready to assist you.\n\nWe are committed to providing safe and reliable tree services to the Bloomington community. We are aware of the challenges posed by the extreme cold winters and how they can affect the health and stability of trees. Our experienced team utilizes state-of-the-art equipment and techniques to ensure efficient and safe tree removal and stump grinding. We are fully licensed and insured.",
+        "localContext": "Bloomington features established ranch-style homes built in the 1960s and 70s and experiences extreme cold winters that necessitate careful tree maintenance.",
+        "nearbyAreas": [
+          "Richfield",
+          "Edina",
+          "Minneapolis"
+        ]
+      },
+      {
+        "city": "Minneapolis",
+        "slug": "minneapolis-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC proudly serves the entire Minneapolis area with top-notch tree removal and stump grinding services. From the historic neighborhoods to the modern downtown core, we understand the diverse needs of Minneapolis residents and businesses. We are equipped to handle any tree-related project, large or small, with professionalism and expertise.\n\nWe are committed to preserving the beauty and safety of Minneapolis' urban forest. We offer a full range of services, including tree trimming, tree removal, stump grinding, and emergency tree services. We understand the extreme cold winters of Minneapolis and how they can impact tree health, making proactive tree care essential. We are fully licensed and insured, and we adhere to all local regulations to ensure a safe and efficient service.",
+        "localContext": "Minneapolis is a diverse city with a mix of historic and modern architecture, known for its vibrant arts scene and harsh winter climate.",
+        "nearbyAreas": [
+          "St. Paul",
+          "Bloomington",
+          "Richfield"
+        ]
+      },
+      {
+        "city": "Minnetonka",
+        "slug": "minnetonka-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC provides professional tree removal and stump grinding services to the residents and businesses of Minnetonka, Minnesota. We understand the unique characteristics of Minnetonka's landscape, from its beautiful lakeshores to its established neighborhoods. We are equipped to handle any tree-related challenge, ensuring the safety and beauty of your property.\n\nWe are dedicated to providing reliable and efficient tree services to the Minnetonka community. We recognize the impact of the extreme cold winters on tree health and stability. Our experienced team utilizes state-of-the-art equipment and techniques to ensure that your tree removal and stump grinding needs are met with the highest standards of safety and quality.",
+        "localContext": "Minnetonka is known for its beautiful lakes and established residential areas, and it experiences extreme cold winters.",
+        "nearbyAreas": [
+          "Plymouth",
+          "Eden Prairie",
+          "Wayzata"
+        ]
+      },
+      {
+        "city": "Edina",
+        "slug": "edina-mn",
+        "state": "MN",
+        "content": "VK Tree & Stump Service LLC is your trusted partner for tree removal and stump grinding services in Edina, Minnesota. We understand the unique needs of Edina's residential areas, with their mature trees and well-maintained landscapes. We are committed to providing top-quality service and ensuring the safety and beauty of your property.\n\nWe offer a comprehensive range of tree services, including tree trimming, tree removal, stump grinding, and emergency tree services. We are mindful of the impact of the extreme cold winters on tree health, and we provide proactive solutions to protect your trees from winter damage. Our team is fully licensed and insured, providing you with peace of mind.",
+        "localContext": "Edina is a residential community known for its mature trees and well-maintained properties, and it experiences extreme cold winters.",
+        "nearbyAreas": [
+          "Bloomington",
+          "Richfield",
+          "St. Louis Park"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Tree Removal",
+        "text": "VK Tree & Stump Service did an amazing job removing a large oak tree from my backyard. The crew was professional, efficient, and very careful not to damage my fence or landscaping. The stump grinding was thorough, and they cleaned up everything perfectly. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Stump Grinding",
+        "text": "I had two large stumps in my front yard that were an eyesore. VK Tree & Stump Service came out and ground them down quickly and efficiently. They filled the holes with topsoil and seeded the area. The price was reasonable, and the service was excellent.",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Tree Trimming",
+        "text": "VK Tree & Stump Service trimmed several trees on my property, removing dead branches and improving the overall shape. They were very knowledgeable and took the time to explain the best pruning techniques for each tree. I will definitely use them again.",
+        "date": "2024-08-05"
+      },
+      {
+        "name": "John S.",
+        "rating": 5,
+        "service": "Emergency Tree Service",
+        "text": "A large branch fell on my roof during a storm. VK Tree & Stump Service responded immediately and removed the branch safely and efficiently. They prevented further damage to my house and provided excellent customer service.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 5,
+        "service": "Land Clearing",
+        "text": "VK Tree & Stump Service cleared a large area of land for my new construction project. They removed all the trees, stumps, and brush quickly and efficiently. The site was left clean and ready for building. Highly recommend their land clearing services.",
+        "date": "2024-06-22"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 4,
+        "service": "Storm Damage Cleanup",
+        "text": "After a severe thunderstorm, VK Tree & Stump Service helped me clean up the debris and remove several damaged trees. They were very professional and efficient. I appreciated their quick response and thorough cleanup.",
+        "date": "2024-09-18"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "VK Tree & Stump Service | Minneapolis Tree Removal",
+        "description": "Expert tree removal, stump grinding, and trimming in Minneapolis. Safe, reliable, and affordable tree care services. Free Quotes!"
+      },
+      "about": {
+        "title": "About Us | VK Tree & Stump Service",
+        "description": "Learn about VK Tree & Stump Service in Minneapolis. Our mission, values, and commitment to quality tree care. Serving Minneapolis communities."
+      },
+      "services": {
+        "title": "Tree Services | VK Tree & Stump Service",
+        "description": "Complete tree services in Minneapolis: removal, trimming, stump grinding, emergency service. Expert care for your property. Free Estimates!"
+      },
+      "contact": {
+        "title": "Contact Us | VK Tree & Stump Service",
+        "description": "Contact VK Tree & Stump Service for tree removal, stump grinding, and trimming in Minneapolis. Get a free estimate today!"
+      },
+      "reviews": {
+        "title": "Reviews | VK Tree & Stump Service",
+        "description": "Read reviews from satisfied customers of VK Tree & Stump Service in Minneapolis. See why we're the trusted choice for tree care."
+      },
+      "service-areas": {
+        "title": "Service Areas | VK Tree & Stump Service",
+        "description": "VK Tree & Stump Service provides tree removal and care throughout the Minneapolis metro area. See our service locations."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "tree-removal": "/images/service-tree-removal.webp",
+      "stump-grinding": "/images/service-stump-grinding.webp",
+      "tree-trimming": "/images/service-tree-trimming.webp",
+      "emergency-tree-service": "/images/service-emergency-tree-service.webp",
+      "land-clearing": "/images/service-land-clearing.webp",
+      "storm-damage-cleanup": "/images/service-storm-damage-cleanup.webp"
+    },
+    "servicesResponsive": {
+      "tree-removal": {
+        "src": "/images/service-tree-removal.webp",
+        "srcset": "/images/service-tree-removal-400w.webp 400w, /images/service-tree-removal-800w.webp 800w, /images/service-tree-removal-1200w.webp 1200w, /images/service-tree-removal.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "stump-grinding": {
+        "src": "/images/service-stump-grinding.webp",
+        "srcset": "/images/service-stump-grinding-400w.webp 400w, /images/service-stump-grinding-800w.webp 800w, /images/service-stump-grinding-1200w.webp 1200w, /images/service-stump-grinding.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "tree-trimming": {
+        "src": "/images/service-tree-trimming.webp",
+        "srcset": "/images/service-tree-trimming-400w.webp 400w, /images/service-tree-trimming-800w.webp 800w, /images/service-tree-trimming-1200w.webp 1200w, /images/service-tree-trimming.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "emergency-tree-service": {
+        "src": "/images/service-emergency-tree-service.webp",
+        "srcset": "/images/service-emergency-tree-service-400w.webp 400w, /images/service-emergency-tree-service-800w.webp 800w, /images/service-emergency-tree-service-1200w.webp 1200w, /images/service-emergency-tree-service.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "land-clearing": {
+        "src": "/images/service-land-clearing.webp",
+        "srcset": "/images/service-land-clearing-400w.webp 400w, /images/service-land-clearing-800w.webp 800w, /images/service-land-clearing-1200w.webp 1200w, /images/service-land-clearing.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "storm-damage-cleanup": {
+        "src": "/images/service-storm-damage-cleanup.webp",
+        "srcset": "/images/service-storm-damage-cleanup-400w.webp 400w, /images/service-storm-damage-cleanup-800w.webp 800w, /images/service-storm-damage-cleanup-1200w.webp 1200w, /images/service-storm-damage-cleanup.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
